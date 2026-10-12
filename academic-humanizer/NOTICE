@@ -1,0 +1,18 @@
+academic-humanizer
+Copyright (c) 2026 Taehyeong Lim — MIT License
+
+This project is an academic-writing extension layered on top of:
+
+  blader/humanizer  (https://github.com/blader/humanizer)
+  Copyright (c) 2025 Siqi Chen — MIT License
+
+This distribution includes the upstream base patterns in vendor/ at pinned
+commit 9600f2b7241cb4eed6ad803abee5ea01d67fe8e4, unchanged. The upstream MIT
+LICENSE and copyright notice are preserved within that copy. scripts/setup.sh
+can restore these files; normal use does not require fetching them again.
+
+The original academic-humanizer project contributed the academic override
+layer, composed skill entry point, documentation, examples, and setup script.
+This adapted distribution additionally modifies the entry point and academic
+rules, adds references/claim-directness.md and agents/openai.yaml, and updates
+documentation to support English manuscript review and redundant-hedge checks.

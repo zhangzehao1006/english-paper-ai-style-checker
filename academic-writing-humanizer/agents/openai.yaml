@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Writing Humanizer"
+  short_description: "Review English papers for hedging and defensive prose"
+  default_prompt: "Use $academic-writing-humanizer to review my English manuscript for unnatural academic phrasing, over-hedging, and defensive prose while preserving the evidence."

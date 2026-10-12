@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Humanizer"
+  short_description: "Review academic prose for redundant defensive wording"
+  default_prompt: "Use $academic-humanizer to review my English manuscript for formulaic wording and excessive defensiveness, giving located suggestions while preserving scientific meaning and leaving the source intact."

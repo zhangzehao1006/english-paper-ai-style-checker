@@ -1,0 +1,4 @@
+# The pinned upstream base in vendor/ is included in this distribution.
+
+# OS / editor noise
+.DS_Store
